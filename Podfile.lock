@@ -1,0 +1,28 @@
+PODS:
+  - ACPReminder (1.0.0)
+  - DZNEmptyDataSet (1.2.1)
+  - EAIntroView (2.6.1)
+  - Gamify (0.2.0)
+  - QBFlatButton (1.1)
+  - RNGridMenu (0.1.3)
+  - ZFDragableModalTransition (0.2)
+
+DEPENDENCIES:
+  - ACPReminder (~> 1.0.0)
+  - DZNEmptyDataSet
+  - EAIntroView (~> 2.6.0)
+  - Gamify (~> 0.2.0)
+  - QBFlatButton
+  - RNGridMenu (~> 0.1.2)
+  - ZFDragableModalTransition
+
+SPEC CHECKSUMS:
+  ACPReminder: f1af6fb9ddfe93df0489f469369425711f3dc27c
+  DZNEmptyDataSet: 150d3a54cfe0daae605808722e9271ffdc26e4f3
+  EAIntroView: 809dc4c9e8006390340c33346870e7b7bb52fe02
+  Gamify: aecbdaaa01129a08216d72317bef955818888318
+  QBFlatButton: 5fcc26fe56e34cbae7c9de53aec38463f980c76e
+  RNGridMenu: 7a5c2c0ad78d254d047c43efe502eee2b16fbcbc
+  ZFDragableModalTransition: 734279090d537b1f701b6efdccd41b0f78503de9
+
+COCOAPODS: 0.33.1

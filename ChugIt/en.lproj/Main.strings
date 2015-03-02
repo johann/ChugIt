@@ -1,0 +1,75 @@
+
+/* Class = "IBUIViewController"; title = "EveryoneViewController"; ObjectID = "1iF-W8-Pyc"; */
+"1iF-W8-Pyc.title" = "EveryoneViewController";
+
+/* Class = "IBUITabBarItem"; title = "Game"; ObjectID = "2ZY-BC-u3g"; */
+"2ZY-BC-u3g.title" = "Game";
+
+/* Class = "IBUILabel"; text = "100 pts till level 2"; ObjectID = "CXl-oi-QJN"; */
+"CXl-oi-QJN.text" = "100 pts till level 2";
+
+/* Class = "IBUILabel"; text = "Drinks this round"; ObjectID = "HvZ-NV-V4c"; */
+"HvZ-NV-V4c.text" = "Drinks this round";
+
+/* Class = "IBUITextView"; text = "No rounds have been played yet"; ObjectID = "Oa4-no-Z4Q"; */
+"Oa4-no-Z4Q.text" = "No rounds have been played yet";
+
+/* Class = "IBUITabBarItem"; title = "Alarm"; ObjectID = "Oej-oV-ENY"; */
+"Oej-oV-ENY.title" = "Alarm";
+
+/* Class = "IBUILabel"; text = "Drink!"; ObjectID = "Rgk-ut-yUt"; */
+"Rgk-ut-yUt.text" = "Drink!";
+
+/* Class = "IBUITabBarItem"; title = "Item"; ObjectID = "T0l-at-SXS"; */
+"T0l-at-SXS.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Guys Drink!"; ObjectID = "UFS-fx-MNS"; */
+"UFS-fx-MNS.text" = "Guys Drink!";
+
+/* Class = "IBUIViewController"; title = "AllGIrlsViewController"; ObjectID = "WCS-HV-QyP"; */
+"WCS-HV-QyP.title" = "AllGIrlsViewController";
+
+/* Class = "IBUILabel"; text = "Total Score"; ObjectID = "Yx4-Sa-7MY"; */
+"Yx4-Sa-7MY.text" = "Total Score";
+
+/* Class = "IBUILabel"; text = "Girls Drink!"; ObjectID = "ZpN-ad-dmc"; */
+"ZpN-ad-dmc.text" = "Girls Drink!";
+
+/* Class = "IBUIButton"; normalTitle = "Disconnect"; ObjectID = "alV-i0-tna"; */
+"alV-i0-tna.normalTitle" = "Disconnect";
+
+/* Class = "IBUITextField"; placeholder = "Display name"; ObjectID = "bNI-Q7-a8x"; */
+"bNI-Q7-a8x.placeholder" = "Display name";
+
+/* Class = "IBUIButton"; normalTitle = "Search for other players"; ObjectID = "cpx-C0-yAI"; */
+"cpx-C0-yAI.normalTitle" = "Search for other players";
+
+/* Class = "IBUILabel"; text = "Level 1 Lightweight"; ObjectID = "fP9-Ak-QfC"; */
+"fP9-Ak-QfC.text" = "Level 1 Lightweight";
+
+/* Class = "IBUITabBarItem"; title = "Connect"; ObjectID = "iVz-kp-WwU"; */
+"iVz-kp-WwU.title" = "Connect";
+
+/* Class = "IBUILabel"; text = "Everyone Drinks!"; ObjectID = "iYr-IR-Nzz"; */
+"iYr-IR-Nzz.text" = "Everyone Drinks!";
+
+/* Class = "IBUIButton"; normalTitle = "Start Game"; ObjectID = "lJ1-Oy-6Uw"; */
+"lJ1-Oy-6Uw.normalTitle" = "Start Game";
+
+/* Class = "IBUILabel"; text = "Don't forget to set a time to head out to the bars"; ObjectID = "lp2-95-Gg5"; */
+"lp2-95-Gg5.text" = "Don't forget to set a time to head out to the bars";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "us4-jp-Twl"; */
+"us4-jp-Twl.text" = "-";
+
+/* Class = "IBUITextView"; text = "No other players found yet"; ObjectID = "v5O-tT-8PZ"; */
+"v5O-tT-8PZ.text" = "No other players found yet";
+
+/* Class = "IBUIButton"; normalTitle = "Set Alarm"; ObjectID = "v7W-5z-coY"; */
+"v7W-5z-coY.normalTitle" = "Set Alarm";
+
+/* Class = "IBUIViewController"; title = "DrinkViewController"; ObjectID = "wjU-oH-caS"; */
+"wjU-oH-caS.title" = "DrinkViewController";
+
+/* Class = "IBUILabel"; text = "Visible to others"; ObjectID = "xUN-NC-6VC"; */
+"xUN-NC-6VC.text" = "Visible to others";

@@ -1,0 +1,8 @@
+platform :ios, '7.0'
+pod 'ACPReminder', '~> 1.0.0'
+pod 'DZNEmptyDataSet'
+pod 'RNGridMenu', '~> 0.1.2'
+pod 'ZFDragableModalTransition'
+pod 'EAIntroView', '~> 2.6.0'
+pod 'QBFlatButton'
+pod 'Gamify', '~> 0.2.0'
